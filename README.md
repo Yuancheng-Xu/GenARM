@@ -4,7 +4,7 @@
     <a href="https://udarimadhu.github.io" target="_blank" style="text-decoration: none;">Udari Madhushani Sehwag</a><sup>2</sup>&nbsp;,&nbsp;
     <a href="https://koppel.netlify.app" target="_blank" style="text-decoration: none;">Alec Koppel</a><sup>2</sup>&nbsp;,&nbsp;
   <a href="https://schzhu.github.io" target="_blank" style="text-decoration: none;">Sicheng Zhu</a><sup>1</sup>&nbsp;,&nbsp;
-    <a href="https://bangann.github.io" target="_blank" style="text-decoration: none;">Bang An</a><sup>1</sup>&nbsp;,&nbsp;
+    <a href="https://bangann.github.io" target="_blank" style="text-decoration: none;">Bang An</a><sup>1</sup>&nbsp;,&nbsp;<br> 
     <a href="https://furong-huang.com" target="_blank" style="text-decoration: none;">Furong Huang</a><sup>1</sup>&nbsp;&nbsp; 
     <a href="https://www.jpmorgan.com/technology/artificial-intelligence/about/sumitra-ganesh" target="_blank" style="text-decoration: none;">Sumitra Ganesh</a><sup>2</sup>&nbsp;&nbsp; 
     <br/> 
